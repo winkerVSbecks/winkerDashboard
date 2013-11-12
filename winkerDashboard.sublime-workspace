@@ -1,0 +1,1783 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"del",
+				"deltaRot"
+			],
+			[
+				"reset",
+				"resetMoti"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"to",
+				"tottler"
+			],
+			[
+				"fb",
+				"fbf6a7"
+			],
+			[
+				"direc",
+				"direction"
+			],
+			[
+				"dial",
+				"dialUrl"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"is",
+				"isValid"
+			],
+			[
+				"fil",
+				"filter	.filter function"
+			],
+			[
+				"up",
+				"updatedMoti"
+			],
+			[
+				"poll",
+				"pollData"
+			],
+			[
+				"api",
+				"apiRefreshRate"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"i",
+				"if	if"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"grap",
+				"graphVecs"
+			],
+			[
+				"angu",
+				"angular.forEach	AngularJS"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"par",
+				"parseInt"
+			],
+			[
+				"ui",
+				"ui-slider-handle"
+			],
+			[
+				"$wa",
+				"$watch	AngularJS"
+			],
+			[
+				"selected",
+				"this.moti.isSelected"
+			],
+			[
+				"on",
+				"onChange"
+			],
+			[
+				"time",
+				"timeoutId"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"type",
+				"actionType"
+			],
+			[
+				"read",
+				"readableRange"
+			],
+			[
+				"ab",
+				"ab948c"
+			],
+			[
+				"ac",
+				"actionType"
+			],
+			[
+				"inline",
+				"inlineBtn"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"drp",
+				"drpdwnToggle"
+			],
+			[
+				"cl",
+				"cl	console.log"
+			],
+			[
+				"link",
+				"linkedMotis"
+			],
+			[
+				"for",
+				"FORM	Tag"
+			],
+			[
+				"fir",
+				"first-child"
+			],
+			[
+				"sel",
+				"selectedMotis"
+			],
+			[
+				"ul",
+				"ul"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"$root",
+				"$rootScope"
+			],
+			[
+				"win",
+				"$scope.windowWidth"
+			],
+			[
+				"knob",
+				"knobContainer"
+			],
+			[
+				"slect",
+				"scope.selectedMotis"
+			],
+			[
+				"mone",
+				"monetSize"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				".he",
+				".height	height"
+			],
+			[
+				".con",
+				".contains	.contains()"
+			],
+			[
+				".repl",
+				".replaceWith	replaceWith"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"border-to",
+				"border-top-right-radius"
+			],
+			[
+				"upper",
+				"uppercase"
+			],
+			[
+				"con",
+				"container-timeline"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"seq",
+				"sequence"
+			],
+			[
+				"el",
+				"element"
+			],
+			[
+				"st",
+				"sto	setTimeout"
+			],
+			[
+				"fe",
+				"filter	$filter"
+			],
+			[
+				"cli",
+				"cli	console.inspect"
+			],
+			[
+				"tim",
+				"timeoutId"
+			],
+			[
+				"re",
+				"ready	$(document).ready"
+			],
+			[
+				"border-bott",
+				"border-bottom-right-radius"
+			],
+			[
+				"click",
+				"clicked"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"id",
+				"idOfMoti"
+			],
+			[
+				"lin",
+				"linkedMotis"
+			],
+			[
+				"upda",
+				"updated_data"
+			],
+			[
+				"moti",
+				"motiID"
+			],
+			[
+				"Shi",
+				"ShippingAddress"
+			],
+			[
+				"docke",
+				"docketNo  (variable)"
+			],
+			[
+				"dock",
+				"docket"
+			],
+			[
+				"isD",
+				"isDoubleSided"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"alert",
+				"alert-error"
+			],
+			[
+				"_cos",
+				"_costMultiplier"
+			],
+			[
+				"de",
+				"description  (variable)"
+			],
+			[
+				"project",
+				"project"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"all",
+				"allUsers"
+			],
+			[
+				"com",
+				"completed"
+			],
+			[
+				"sta",
+				"startDate"
+			],
+			[
+				"val",
+				"validate"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"Print",
+				"Printer"
+			],
+			[
+				"customer",
+				"CustomerList"
+			],
+			[
+				"shi",
+				"shippingBoxes"
+			],
+			[
+				"shipping",
+				"shippingBox"
+			],
+			[
+				"fi",
+				"finishes"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"pro",
+				"project"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"ship",
+				"shipAdd"
+			],
+			[
+				"ki",
+				"kittingCost"
+			],
+			[
+				"fini",
+				"finishes"
+			],
+			[
+				"fin",
+				"finishToRemove"
+			],
+			[
+				"Finis",
+				"FinishesList"
+			],
+			[
+				"Lis",
+				"ListProperty"
+			],
+			[
+				"getCos",
+				"getCostOfDesign"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"Re",
+				"Reference"
+			],
+			[
+				"pr",
+				"projectCount"
+			],
+			[
+				"projec",
+				"project"
+			],
+			[
+				"do",
+				"doCut  (variable)"
+			],
+			[
+				"cut",
+				"cutCost"
+			],
+			[
+				"lim",
+				"limit"
+			],
+			[
+				"la",
+				"labourCost"
+			],
+			[
+				"cost",
+				"costList"
+			],
+			[
+				"a",
+				"ancestor"
+			],
+			[
+				"cos",
+				"costList"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 3645,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/styles/layout.css",
+			"settings":
+			{
+				"buffer_size": 9101,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/main.html",
+			"settings":
+			{
+				"buffer_size": 555,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/weightTracker.html",
+			"settings":
+			{
+				"buffer_size": 685,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/scripts/directives/graph.js",
+			"settings":
+			{
+				"buffer_size": 2311,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/scripts/controllers/viewComponents.js",
+			"settings":
+			{
+				"buffer_size": 538,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/scripts/controllers/weightTracker.js",
+			"settings":
+			{
+				"buffer_size": 721,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/navigationDrawer.html",
+			"settings":
+			{
+				"buffer_size": 862,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"fold",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"fol",
+				"Code Folding: Unfold All"
+			],
+			[
+				"",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Function"
+			],
+			[
+				"Snippet: lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": true
+	},
+	"file_history":
+	[
+		"/Users/winkerVSbecks/Desktop/winkerDashboard/app/views/groceries.html",
+		"/Users/winkerVSbecks/Desktop/winkerDashboard/app/views/toolbar.html",
+		"/Users/winkerVSbecks/Desktop/winkerDashboard/app/scripts/app.js",
+		"/Users/winkerVSbecks/Desktop/winkerDashboard/app/scripts/controllers/main.js",
+		"/Users/winkerVSbecks/Desktop/winkerDashboard/app/scripts/services/snapper.js",
+		"/Users/winkerVSbecks/Desktop/winkerDashboard/app/scripts/controllers/groceries.js",
+		"/Users/winkerVSbecks/Desktop/mobile_fb_web/test/src/e2e/lib/app_ops.js",
+		"/Users/winkerVSbecks/Desktop/winkerDashboard/app/styles/skeleton.css",
+		"/Users/winkerVSbecks/Desktop/winkerDashboard/app/styles/base.css",
+		"/Users/winkerVSbecks/Desktop/winkerDashboard/app/views/navigationDrawer.html",
+		"/Users/winkerVSbecks/Desktop/winkerDashboard/app/bower_components/angular-ui-utils/modules/utils.js",
+		"/Users/winkerVSbecks/Desktop/winkerDashboard/app/styles/layout.css",
+		"/Users/winkerVSbecks/Desktop/winkerDashboard/app/bower_components/angular-ui-utils/modules/route/route.js",
+		"/Users/winkerVSbecks/Desktop/winkerDashboard/app/styles/styles.css",
+		"/Users/winkerVSbecks/Desktop/winkerDashboard/app/bower_components/angular-fire/angularFire.js",
+		"/Users/winkerVSbecks/Desktop/winkerDashboard/app/bower_components/angular-fire/angularfire.min.js",
+		"/Users/winkerVSbecks/Desktop/winkerDashboard/app/views/main.html",
+		"/Users/winkerVSbecks/Desktop/winkerDashboard/app/scripts/controllers/ViewComponents.js",
+		"/Users/winkerVSbecks/Desktop/winkerDashboard/app/views/motiSelectionDrawer.html",
+		"/Users/winkerVSbecks/Desktop/winkerDashboard/app/scripts/directives/snapper.js",
+		"/Users/winkerVSbecks/Desktop/winkerDashboard/app/scripts/directives/ViewComponents.js",
+		"/Users/winkerVSbecks/Desktop/winkerDashboard/app/styles/main.css",
+		"/Users/winkerVSbecks/Desktop/winkerDashboard/app/index.html",
+		"/Users/winkerVSbecks/Desktop/rangleIO/app/index.html",
+		"/Users/winkerVSbecks/Desktop/rangleIO/app/views/home.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/js/directives/ui-components.js",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/js/directives/view-components.js",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/views/sequencesList.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/css/skeleton.css",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/css/base.css",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/css/layout.css",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/js/services.js",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/examples/DestroyAllHumans/index.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/examples/carRemote.html",
+		"/Users/winkerVSbecks/Desktop/moti-source/MotiphWebsite/collectiveWebsite.sublime-project",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/views/basicController.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/views/customController.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/views/knobsController_old.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/pastebin.js",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/ui-components/slider.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/views/sliderController.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/views/dialController.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/js/directives/sequences.js",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/js/directives/external-components.js",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/libs/jquery.moti-kontrol.js",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/view-components/navigationDrawer.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/index.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/view-components/motiSelectionDrawer.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/js/filters.js",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/examples/djmoti/index.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/examples/djmoti/index-absolute.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/views/timelineAccordian.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/css/font-awesome.min.css",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/css/styles.css",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/views/customExamples.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/js/app.js",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/view-components/toolbar.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/js/directives/not-used.js",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/view-components/editName.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/views/motiProperties.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/views/propertiesMotiList.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/views/settingsList.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/views/moti.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/libs/backbone-min.js",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/libs/underscore-min.js",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/libs/two.min.js",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/libs/angular1.0.7.min.js",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/ui-components/sequence.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/css/lato.css",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/libs/jquery/jquery-ui.js",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/motorData/sequences/crouch.json",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/motorData/sequences/sequences.json",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/motorData/controllers/controllers.json",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/libs/bootstrap/bootstrap-transition.js",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/libs/async.js",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/libs/fastclick.js",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/motorData/sequences/fire-laser.json",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/views/sequence.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/css/bootstrap/bootstrap.css",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/ui-components/changeIdButton.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/css/style.css",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/motorData/sequences/jump.json",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/motorData/sequences/kill-all-humans.json",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/motorData/sequences/run-in-a-circle.json",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/motorData/sequences/walk-3-steps-forward-pause-and-jump.json",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/motorData/sequences/walk-back.json",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/motorData/sequences/walk-forward.json",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/motorData/sequences/wiggle.json",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/ui-components/dialer.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/views/restApi.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/views/knobController.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/ui-components/dial.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/motorData/test.json",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/libs/angular/angular.js",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/.gitignore",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/motorData/test-alt.json",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/moti-angular.sublime-project",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/ui-components/slider_old.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/views/knobsController.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/views/basicSlidersController.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/views/basicKnobsController.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/js/controllers.js",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/basicKnobsController.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/moti.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/view-components/drawerLeft.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/js/directives.js",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/js/directives/directives.js",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/css/jquery-ui.css",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/basicController.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/lib/jquery.moti-kontrol.js",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/lib/fastclickAlt.js",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/toolbar.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/drawerRight.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/drawerLeft.html",
+		"/Users/winkerVSbecks/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/winkerVSbecks/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/restApi.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/navigation.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/partials/dial.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/lib/fastclick.js",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/font/fontawesome-webfont.svg",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/css/snap.css",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/backup.html",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/css/reset.css",
+		"/Users/winkerVSbecks/Desktop/motiwebui/www/css/trunk.css",
+		"/Users/winkerVSbecks/Desktop/moti-ui/www/partials/dial.html",
+		"/Users/winkerVSbecks/Desktop/moti-ui/www/partials/slider.html",
+		"/Users/winkerVSbecks/Desktop/moti-ui/www/lib/fastclick.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/winkerVSbecks/Desktop/motiwebui/www"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"				    \n",
+			"scale",
+			"}",
+			"{",
+			"-",
+			"12",
+			"item",
+			"Item(",
+			"Item ",
+			"groceryList",
+			"toolbar",
+			"font-size: 16px;",
+			"60px",
+			"hover",
+			"submit",
+			"form",
+			"form.",
+			".form",
+			"form",
+			"border-box",
+			"68px",
+			"drag",
+			"ebebeb",
+			"color",
+			"toolbar",
+			"sorta",
+			"strike",
+			"submit",
+			"weight",
+			"999",
+			"input",
+			"text",
+			"body",
+			"FF5E3A",
+			"toolbar",
+			"shoppingList",
+			"list",
+			"burger",
+			"toolbar",
+			"angularfire",
+			"stacked",
+			"drawerbar",
+			"list",
+			"moti",
+			"favicon",
+			"topcoat",
+			"ranges",
+			"goto",
+			"sequence",
+			"new ",
+			"new",
+			"foreach",
+			"watch",
+			"map",
+			"#",
+			"examples",
+			"console",
+			"go",
+			".center",
+			".center\n",
+			".center",
+			"center",
+			"element",
+			"launchFullScreen",
+			"launchFullScreen\n",
+			"launchFullScreen",
+			"full",
+			"fullscreen",
+			"timeout",
+			"timer",
+			".ch",
+			".sh",
+			"sh",
+			".cH",
+			"cv",
+			".sv",
+			".sh",
+			"start",
+			".start",
+			"start",
+			"this.v",
+			"touch",
+			"rocket",
+			"content",
+			"mix",
+			"box",
+			"helper",
+			"Card",
+			"card",
+			"stopMotis",
+			"stopMoti",
+			"#",
+			"dial",
+			"icon-angle",
+			"arrow",
+			"class=\"arrow\"",
+			"<i class=\"icon-angle-left\"></i>",
+			"<i class=\"icon-angle-right\"></i>",
+			" class=\"icon-angle",
+			"<i ",
+			"<i class=\"icon-angle-right\"></i>",
+			"icon-4x",
+			"class=\"arrows\"",
+			"arrows",
+			"footer",
+			"arrows",
+			"box",
+			"arrows",
+			"accentColor",
+			"bgColor",
+			"accentColor",
+			"accentColor\n",
+			"dialToggle",
+			"style",
+			"dial",
+			"dialToggle",
+			"jog",
+			"dial",
+			"jog",
+			"stopMoti",
+			"this",
+			"isAbsolute",
+			"span",
+			"card",
+			"resetMoti",
+			"maxSpeedAndTorque",
+			"preventInput",
+			"moveMyMoti"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/index.html",
+					"settings":
+					{
+						"buffer_size": 3645,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2527,
+								2527
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_separators": "./\\\\()\\\"\\'-:,.;<>~!@#%^&*|+=[]{}`~?"
+						},
+						"translation.x": 0.0,
+						"translation.y": 978.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/styles/layout.css",
+					"settings":
+					{
+						"buffer_size": 9101,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7678,
+								7678
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 6191.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/views/main.html",
+					"settings":
+					{
+						"buffer_size": 555,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								555,
+								555
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/views/weightTracker.html",
+					"settings":
+					{
+						"buffer_size": 685,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								685,
+								685
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/scripts/directives/graph.js",
+					"settings":
+					{
+						"buffer_size": 2311,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								727,
+								727
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"word_separators": "./\\\\()\\\"\\'-:,.;<>~!@#%^&*|+=[]{}`~?"
+						},
+						"translation.x": 0.0,
+						"translation.y": 55.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 5,
+					"file": "app/scripts/controllers/viewComponents.js",
+					"settings":
+					{
+						"buffer_size": 538,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								530,
+								530
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_separators": "./\\\\()\\\"\\'-:,.;<>~!@#%^&*|+=[]{}`~?"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/scripts/controllers/weightTracker.js",
+					"settings":
+					{
+						"buffer_size": 721,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								721,
+								721
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"word_separators": "./\\\\()\\\"\\'-:,.;<>~!@#%^&*|+=[]{}`~?"
+						},
+						"translation.x": 0.0,
+						"translation.y": 86.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/views/navigationDrawer.html",
+					"settings":
+					{
+						"buffer_size": 862,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								188,
+								188
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 139.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"gr",
+				"views/groceries.html"
+			],
+			[
+				"nav",
+				"views/navigationDrawer.html"
+			],
+			[
+				"ool",
+				"views/toolbar.html"
+			],
+			[
+				"ske",
+				"styles/skeleton.css"
+			],
+			[
+				"base",
+				"styles/base.css"
+			],
+			[
+				"sna",
+				"scripts/services/snapper.js"
+			],
+			[
+				"bas",
+				"styles/base.css"
+			],
+			[
+				"n",
+				"views/navigationDrawer.html"
+			],
+			[
+				"styles",
+				"styles/styles.css"
+			],
+			[
+				"tool",
+				"views/toolbar.html"
+			],
+			[
+				"groc",
+				"views/groceries.html"
+			],
+			[
+				"main",
+				"views/main.html"
+			],
+			[
+				"inde",
+				"app/index.html"
+			],
+			[
+				"seq",
+				"partials/ui-components/sequence.html"
+			],
+			[
+				"sequenc",
+				"partials/views/sequencesList.html"
+			],
+			[
+				"view",
+				"js/directives/view-components.js"
+			],
+			[
+				"seque",
+				"partials/views/sequencesList.html"
+			],
+			[
+				"knob",
+				"partials/views/knobsController_old.html"
+			],
+			[
+				"kont",
+				"libs/jquery.moti-kontrol.js"
+			],
+			[
+				"contro",
+				"partials/views/customController.html"
+			],
+			[
+				"paste",
+				"pastebin.js"
+			],
+			[
+				"slide",
+				"partials/ui-components/slider.html"
+			],
+			[
+				"slider",
+				"partials/views/sliderController.html"
+			],
+			[
+				"exter",
+				"js/directives/external-components.js"
+			],
+			[
+				"app",
+				"js/app.js"
+			],
+			[
+				"naviga",
+				"partials/view-components/navigationDrawer.html"
+			],
+			[
+				"services",
+				"js/services.js"
+			],
+			[
+				"moti",
+				"partials/view-components/motiSelectionDrawer.html"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"navg",
+				"partials/view-components/navigationDrawer.html"
+			],
+			[
+				"draw",
+				"partials/view-components/navigationDrawer.html"
+			],
+			[
+				"ser",
+				"js/services.js"
+			],
+			[
+				"timer",
+				"partials/views/timelineAccordian.html"
+			],
+			[
+				"kontr",
+				"libs/jquery.moti-kontrol.js"
+			],
+			[
+				"kon",
+				"libs/jquery.moti-kontrol.js"
+			],
+			[
+				"filt",
+				"js/filters.js"
+			],
+			[
+				"dial",
+				"partials/views/dialController.html"
+			],
+			[
+				"fon",
+				"css/font-awesome.min.css"
+			],
+			[
+				"set",
+				"partials/views/sequencesList.html"
+			],
+			[
+				"ap",
+				"js/app.js"
+			],
+			[
+				"navig",
+				"partials/view-components/navigationDrawer.html"
+			],
+			[
+				"font",
+				"css/font-awesome.min.css"
+			],
+			[
+				"navi",
+				"partials/view-components/navigationDrawer.html"
+			],
+			[
+				"custo",
+				"partials/views/customController.html"
+			],
+			[
+				"too",
+				"partials/view-components/toolbar.html"
+			],
+			[
+				"dia",
+				"partials/views/dialController.html"
+			],
+			[
+				"filter",
+				"js/filters.js"
+			],
+			[
+				"deque",
+				"js/directives/sequences.js"
+			],
+			[
+				"ui",
+				"js/directives/ui-components.js"
+			],
+			[
+				"fil",
+				"js/filters.js"
+			],
+			[
+				"sett",
+				"partials/views/settingsList.html"
+			],
+			[
+				"vi",
+				"js/directives/view-components.js"
+			],
+			[
+				"se",
+				"partials/views/settingsList.html"
+			],
+			[
+				"serv",
+				"js/services.js"
+			],
+			[
+				"slid",
+				"partials/ui-components/slider.html"
+			],
+			[
+				"lat",
+				"css/lato.css"
+			],
+			[
+				"sequen",
+				"partials/views/sequencesList.html"
+			],
+			[
+				"jquer",
+				"libs/jquery/jquery-ui.js"
+			],
+			[
+				"kontrol",
+				"libs/jquery.moti-kontrol.js"
+			],
+			[
+				"filer",
+				"js/filters.js"
+			],
+			[
+				"di",
+				"partials/views/dialController.html"
+			],
+			[
+				"vie",
+				"js/directives/view-components.js"
+			],
+			[
+				"sequ",
+				"js/directives/sequences.js"
+			],
+			[
+				"crouch",
+				"motorData/sequences/crouch.json"
+			],
+			[
+				"btn",
+				"libs/bootstrap/bootstrap-transition.js"
+			],
+			[
+				"asyn",
+				"libs/async.js"
+			],
+			[
+				"crou",
+				"motorData/sequences/crouch.json"
+			],
+			[
+				"fire",
+				"motorData/sequences/fire-laser.json"
+			],
+			[
+				"filte",
+				"js/filters.js"
+			],
+			[
+				"filters",
+				"js/filters.js"
+			],
+			[
+				"boot",
+				"css/bootstrap/bootstrap.css"
+			],
+			[
+				"style",
+				"css/styles.css"
+			],
+			[
+				"change",
+				"partials/ui-components/changeIdButton.html"
+			],
+			[
+				"direc",
+				"js/directives/ui-components.js"
+			],
+			[
+				"mot",
+				"partials/view-components/motiSelectionDrawer.html"
+			],
+			[
+				"external",
+				"js/directives/external-components.js"
+			],
+			[
+				"navigation",
+				"partials/view-components/navigationDrawer.html"
+			],
+			[
+				"ex",
+				"js/directives/external-components.js"
+			],
+			[
+				"sequec",
+				"partials/views/sequencesList.html"
+			],
+			[
+				"st",
+				"css/style.css"
+			],
+			[
+				"sty",
+				"css/styles.css"
+			],
+			[
+				"crouc",
+				"motorData/sequences/crouch.json"
+			],
+			[
+				"api",
+				"partials/views/restApi.html"
+			],
+			[
+				"sli",
+				"partials/views/sliderController.html"
+			],
+			[
+				"test",
+				"motorData/test.json"
+			],
+			[
+				"motis",
+				"partials/view-components/motiSelectionDrawer.html"
+			],
+			[
+				"styl",
+				"css/styles.css"
+			],
+			[
+				"angula",
+				"libs/angular/angular.js"
+			],
+			[
+				"angular",
+				"libs/angular/angular.js"
+			],
+			[
+				"kno",
+				"partials/views/knobController.html"
+			],
+			[
+				"motise",
+				"partials/view-components/motiSelectionDrawer.html"
+			],
+			[
+				"anug",
+				"libs/angular/angular.js"
+			],
+			[
+				"angul",
+				"libs/angular/angular.js"
+			],
+			[
+				"angu",
+				"libs/angular/angular.js"
+			],
+			[
+				"motisel",
+				"partials/view-components/motiSelectionDrawer.html"
+			],
+			[
+				"tes",
+				"motorData/test.json"
+			],
+			[
+				"kontro",
+				"libs/jquery.moti-kontrol.js"
+			],
+			[
+				"basicsli",
+				"partials/views/basicSlidersController.html"
+			],
+			[
+				"boo",
+				"css/bootstrap/bootstrap.css"
+			],
+			[
+				"right",
+				"partials/view-components/drawerRight.html"
+			],
+			[
+				"basick",
+				"partials/views/basicKnobsController.html"
+			],
+			[
+				"navigationdrawer",
+				"partials/view-components/navigationDrawer.html"
+			],
+			[
+				"contr",
+				"js/controllers.js"
+			],
+			[
+				"file",
+				"js/filters.js"
+			],
+			[
+				"con",
+				"js/controllers.js"
+			],
+			[
+				"basic",
+				"partials/views/basicKnobsController.html"
+			],
+			[
+				"basi",
+				"partials/basicController.html"
+			],
+			[
+				"jqu",
+				"css/jquery-ui.css"
+			],
+			[
+				"dire",
+				"js/directives.js"
+			],
+			[
+				"skel",
+				"css/skeleton.css"
+			],
+			[
+				"lay",
+				"css/layout.css"
+			],
+			[
+				"bootstrap-",
+				"lib/bootstrap/bootstrap-button.js"
+			],
+			[
+				"drop",
+				"lib/bootstrap/bootstrap-dropdown.js"
+			],
+			[
+				"res",
+				"partials/restApi.html"
+			],
+			[
+				"rest",
+				"partials/restApi.html"
+			],
+			[
+				"edit",
+				"partials/editButton.html"
+			],
+			[
+				"super",
+				"partials/superController.html"
+			],
+			[
+				"cus",
+				"partials/customController.html"
+			],
+			[
+				"custom",
+				"partials/customController.html"
+			],
+			[
+				"time",
+				"partials/timelineController.html"
+			],
+			[
+				"reset",
+				"partials/resetButton.html"
+			],
+			[
+				"car",
+				"motorData/controllers/car-remote.json"
+			],
+			[
+				"digi",
+				"partials/digiDisplay.html"
+			],
+			[
+				"id",
+				"partials/changeIdButton.html"
+			],
+			[
+				"digit",
+				"partials/digiDisplay.html"
+			],
+			[
+				"cut",
+				"partials/customController.html"
+			],
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"cust",
+				"partials/customController.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 205.0,
+	"status_bar_visible": true
+}

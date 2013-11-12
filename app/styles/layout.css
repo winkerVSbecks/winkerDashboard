@@ -1,0 +1,499 @@
+/*
+* Skeleton V1.2
+* Copyright 2011, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 6/20/2012
+*/
+
+
+/* #Site Styles
+================================================== */
+	* {
+		-webkit-box-sizing: border-box;
+		   -moz-box-sizing: border-box;
+  	        box-sizing: border-box;
+	}
+	/* HEADER */
+	header {
+		height: 60px;
+		margin: 0;
+		padding: 0;
+	}
+	header h1 {
+		font-size: 28px;
+		line-height: 60px;
+		padding: 0 20px 0 20px;
+		text-align: center;
+		display: block;
+	}
+	header a {
+		text-decoration: none;
+	}
+	/* Input */
+	input[type="text"],
+	input[type="password"],
+	input[type="email"],
+	input[type="number"],
+	input[type="tel"],
+	select {
+		font-family: 'Lato', Helvetica, Arial, sans-serif;
+		font-size: 20px;
+		border: 0;
+		padding: 0;
+		margin: 0 10px 0 0;
+		outline: none;
+		display: inline-block;
+		text-align: center;
+		background: #E0EBE7;
+		border-radius: 3px;
+		color: #4dbfd9;
+		line-height: 30px;
+		width: 100px;
+		max-width: 100%;
+		height: 30px;
+	}
+	input[type="text"]:focus,
+	input[type="password"]:focus,
+	input[type="email"]:focus,
+	input[type="number"],
+	input[type="tel"],
+	select {
+		border: 0;
+		outline: none;
+		color: #4dbfd9;
+	}
+	input[type="text"]:disabled,
+	input[type="password"]:disabled,
+	input[type="email"]:disabled,
+	input[type="number"],
+	input[type="tel"],
+	select {
+		border: 0;
+		outline: none;
+		background: transparent;
+	}
+
+	/* Selections and Highlights */
+	::selection {
+	  background: transparent;
+	}
+	::-moz-selection {
+	  background: transparent;
+	}
+	::-webkit-selection {    
+	  background: transparent;
+	}
+
+
+
+/* #Drawer Styles
+================================================== */
+	.snap-content {
+	  position: absolute;
+	  top: 0;
+	  right: 0;
+	  bottom: 0;
+	  left: 0;
+	  width: auto;
+	  height: auto;
+	  z-index: 2;
+	  overflow: auto;
+	  background: #F3F2F0;
+	  border-radius: 6px;
+	  -webkit-overflow-scrolling: touch;
+	  -webkit-transform: translate3d(0, 0, 0);
+	     -moz-transform: translate3d(0, 0, 0);
+	      -ms-transform: translate3d(0, 0, 0);
+	       -o-transform: translate3d(0, 0, 0);
+	          transform: translate3d(0, 0, 0);
+	}
+
+	.snap-drawers {
+	  position: absolute;
+	  top: 0;
+	  right: 0;
+	  bottom: 0;
+	  left: 0;
+	  width: auto;
+	  height: auto;
+	  background: #232D3B;
+	}
+
+	.snap-drawer {
+	  position: absolute;
+	  top: 0;
+	  right: auto;
+	  bottom: 0;
+	  left: auto;
+	  width: 265px;
+	  height: auto;
+	  overflow: auto;
+	  -webkit-overflow-scrolling: touch;
+	  -webkit-transition: width 0.3s ease;
+	     -moz-transition: width 0.3s ease;
+	      -ms-transition: width 0.3s ease;
+	       -o-transition: width 0.3s ease;
+	          transition: width 0.3s ease;
+	}
+
+	.snap-drawer-left {
+	  left: 0;
+	  z-index: 1;
+	}
+	.snap-drawer-right {
+	  right: 0;
+	  z-index: 1;
+	}
+
+	.snapjs-left .snap-drawer-right,
+	.snapjs-right .snap-drawer-left {
+	  display: none;
+	}
+
+	.snapjs-expand-left .snap-drawer-left,
+	.snapjs-expand-right .snap-drawer-right {
+	  width: 100%;
+	}
+
+	.drawerBar {
+		background: #171E27;
+		margin: 0;
+		padding: 0; 
+	}
+	.drawerBar h1 {
+		color: #7F8C8D;
+		height: 60px;
+		text-align: left;
+		margin: 0;
+		padding: 0 0 0 16px; 
+	}
+	.drawerBar h1 img {
+		float: left;
+		border-radius: 16px;
+		margin-top: 14px;
+		display: inline;
+	}
+	.drawerBar h1 span {
+		float: left;
+		display: inline;
+		line-height: 60px;
+		padding-left: 12px;
+	}
+	.drawerList {
+		list-style: none;
+	}
+	.drawerList.left {
+		text-align: left;
+	}
+	.drawerList.right {
+		text-align: right;
+	}
+	.drawerList li {
+		margin: 0;
+		display: block;
+		border-bottom: 1px solid #171E27;
+	}
+	.drawerList li a {
+		color: #405a74;
+		font-weight: 700;
+		text-decoration: none;
+		padding: 0;
+		height: 64px;
+		overflow: hidden;
+		display: block;
+	}
+	.drawerList li a:hover, .drawerList li a:active {
+		color: #7F8C8D;
+		background: #405a74; 
+	}
+	.drawerList li a.selected {
+		color: #94d8e8;
+		background: #405a74; 
+	}
+	.drawerList li a img {
+		float: left;
+		display: inline-block;
+		margin: 16px 0 0 16px;
+		width: 32px;
+		height: 32px;
+	}
+	.drawerList li a p {
+		float: left;
+		display: inline-block;
+		margin: 0;
+		padding: 0;
+		font-size: 20px;
+		line-height: 64px;
+		padding-left: 24px; 
+	}
+
+
+/* #Toolbar
+================================================== */
+	.toolbar {
+		background: #8DD27F; /*#E0EBE7;*/
+    border-radius: 6px 6px 0px 0px;
+    color: #fff;
+	}
+	.toolbar h1 {
+		color: #fff;
+		margin: 0;
+	}
+	.burger {
+		cursor: pointer;
+		position: absolute;
+		float: left;
+		padding: 10px;
+		top: 4px;
+		left: 10px;
+		display: inline-block;
+	}
+	.burger li {
+		width: 30px;
+		height: 4px;
+		background-color: #fff;
+    border-radius: 3px;
+		margin: 5px 0;
+	}
+
+	.active {
+		cursor: pointer;
+		text-align: center;
+		position: absolute;
+		float: right;
+		top: 12px;
+		right: 10px;
+		width: 26px;
+		height: 26px;
+		margin: 0 11px 0 11px;
+		display: inline-block;
+		font-size: 18px;
+		line-height: 26px;
+		border: 4px solid #fff;
+		border-radius: 17px;
+		background: #badbab;
+		color: #fff;
+		font-weight: 400;
+	}
+
+
+
+/* #List Views
+================================================== */
+	ul.stacked {
+		padding: 0;
+		margin: 0;
+	}
+
+	.stacked li {
+		min-height: 60px;
+		margin: 0;
+		padding: 0 24px 0 24px; 
+		font-size: 20px;
+		line-height: 60px;
+		text-align: left;
+		background: #FEFEFE;
+		color: #B0B0B0;
+		display: block;
+		overflow: hidden;
+	}
+
+	.stacked li:nth-child(odd) {
+		background: #F7F7F7;
+	}
+
+	.stacked .remove {
+		color: #E2E2E2;
+	}
+	.stacked .check {
+		padding-right: 24px;
+		/*color: #F7D734;*/
+	}
+
+	form.stackedForm {
+		margin: 60px 0 60px 10%;
+		width: 80%;
+		height: 120px;
+		-webkit-box-sizing: content-box;
+		   -moz-box-sizing: content-box;
+  	        box-sizing: content-box;
+	}
+
+	input[type="submit"] {
+		float: left;
+		background: #E3E2E0;
+		border-radius: 0 0 6px 6px;
+		outline: 0;
+		margin: 0;
+		border: 0;
+		display: block;
+		text-shadow: none;
+		color: #808080;  
+		font-size: 20px;
+		line-height: 60px;
+		font-weight: 300;
+		padding: 0;
+		width: 100%;
+		-webkit-appearance: none;
+	}
+	input[type="submit"]:hover,
+	input[type="submit"]:active {
+		border: 0;
+		outline: 0;
+		margin: 0;
+		text-shadow: none;
+		color: #808080;  
+		background: #E3E2E0;
+	}
+	input[type="submit"]:active {
+		color: #8DD27F;
+	}
+
+	input[type="text"] {
+		float: left;
+		min-height: 60px;
+		margin: 0;
+		padding: 0 0 0 24px; 
+		font-size: 20px;
+		line-height: 60px;
+		text-align: left;
+		background: #eaeaea;
+		color: #EEA137 !important;
+		font-weight: 300;
+		border-radius: 6px 6px 0 0;
+		display: block;
+		width: 100%;
+	}
+	input[type="text"]:focus {
+		border: 0;
+		outline: 0;
+		box-shadow: none;
+	}
+	::-webkit-input-placeholder {
+    color: #bababa;
+    font-weight: 300;
+	}
+
+	.completed {
+		color: #E2E2E2 !important;
+		background: #F3F2F0 !important;
+	}
+
+
+
+/* #Main View
+================================================== */
+.tile {
+	float: left;
+	display: inline-block;
+	width: 50%;
+	color: #b0b0b0;
+	padding: 24px;
+	background: #F7F9F8;
+	text-align: center;
+}
+.tile:nth-child(1), 
+.tile:nth-child(3) {
+	border-right: 1px solid #E0EBE7;
+}
+.tile:nth-child(1), 
+.tile:nth-child(2) {
+	border-bottom: 1px solid #E0EBE7;
+}
+
+.tile .info {
+	display: block;
+	line-height: 20%;
+	font-size: 24px;
+	height: 20%;
+}
+
+
+.shopping {
+	color: #F6D633;
+}
+.fitness {
+	color: #46B29A;
+}
+.reminders {
+	color: #EEA137;
+}
+.something {
+	color: #F6A09F;
+}
+
+
+/* #Graph
+================================================== */
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #dadada;
+  shape-rendering: crispEdges;
+}
+.axis text {
+	fill: #d0d0d0;
+	stroke: none;
+}
+.axis line,
+.axis tick {
+	display: none;
+}
+
+.x.axis path {
+  /*display: none;*/
+}
+.y.axis path {
+	/*display: none;*/
+}
+
+.line {
+  fill: none;
+  stroke: #E0EBE8;
+  stroke-width: 5px;
+  stroke-linecap: round;
+}
+
+.grid path {
+  stroke-width: 1;
+}
+
+
+/* #Media Queries
+================================================== */
+
+	/* Smaller than standard 960 (devices and browsers) */
+	@media only screen and (max-width: 959px) {}
+
+	/* Tablet Portrait size to standard 960 (devices and browsers) */
+	@media only screen and (min-width: 768px) and (max-width: 959px) {}
+
+	/* All Mobile Sizes (devices and browser) */
+	@media only screen and (max-width: 767px) {}
+
+	/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+	@media only screen and (min-width: 480px) and (max-width: 767px) {}
+
+	/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+	@media only screen and (max-width: 479px) {}
+
+
+/* #Font-Face
+================================================== */
+/* 	This is the proper syntax for an @font-face file
+		Just create a "fonts" folder at the root,
+		copy your FontName into code below and remove
+		comment brackets */
+
+/*	@font-face {
+	    font-family: 'FontName';
+	    src: url('../fonts/FontName.eot');
+	    src: url('../fonts/FontName.eot?iefix') format('eot'),
+	         url('../fonts/FontName.woff') format('woff'),
+	         url('../fonts/FontName.ttf') format('truetype'),
+	         url('../fonts/FontName.svg#webfontZam02nTh') format('svg');
+	    font-weight: normal;
+	    font-style: normal; }
+*/

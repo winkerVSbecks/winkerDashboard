@@ -1,0 +1,13 @@
+
+<ul class="stacked">
+  <li ng-repeat="item in groceryList | orderBy:'completed':reverse" ng-class="{completed: item.completed }">
+  	<i class="fa check" ng-class="{'fa-check-square': item.completed, 'fa-square':!item.completed}" ng-click="toggleComplete(item)"></i> 
+  	{{item.task}}  
+  	<span class="pull-right" ng-click="removeItem(item)"><i class="fa fa-times-circle-o remove"></i> </span>
+  </li>
+</ul>
+
+<form ng-submit="addItem()" class="stackedForm">
+	<input ng-model="newItem" type="text" placeholder="item description..." required>
+	<input type="submit" value="Add item">
+</form>

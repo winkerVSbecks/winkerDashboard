@@ -1,0 +1,15 @@
+
+<!-- <ul class="stacked">
+  <li ng-repeat="measurement in weightMeasurements | orderBy:'logDate':reverse" ng-class="{completed: measurement.completed }">
+  	<i class="fa check" ng-class="{'fa-check-square': measurement.completed, 'fa-square':!measurement.completed}" ng-click="toggleComplete(measurement)"></i> 
+  	{{measurement.task}}  
+  	<span class="pull-right" ng-click="removeMeasurement(measurement)"><i class="fa fa-times-circle-o remove"></i> </span>
+  </li>
+</ul> -->
+
+<graph></graph>
+
+<form ng-submit="addMeasurement()" class="stackedForm">
+	<input ng-model="newItem" type="text" placeholder="today's weight" required>
+	<input type="submit" value="Add Measurement">
+</form>
