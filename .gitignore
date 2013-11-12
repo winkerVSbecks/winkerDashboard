@@ -3,3 +3,11 @@ dist
 .tmp
 .sass-cache
 app/bower_components
+node_modules
+.tmp
+.sass-cache
+.ds_store
+TODO.md
+winkerDashboard.sublime-project
+winkerDashboard.sublime-workspace
+_2x.jpg
